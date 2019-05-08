@@ -1,0 +1,38 @@
+{
+  "ver": "1.0.11",
+  "importer": "image",
+  "imported": true,
+  "uuid": "1cd5498e-3745-48c3-beba-73ed195e5aba",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "Corset_baseColor": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "1cd5498e-3745-48c3-beba-73ed195e5aba@Corset_baseColor",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "1cd5498e-3745-48c3-beba-73ed195e5aba"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "1cd5498e-3745-48c3-beba-73ed195e5aba@Corset_baseColor",
+    "flipVertical": false
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "ver": "1.0.11",
+  "importer": "image",
+  "uuid": "e8ef5ac0-8b5b-4c6b-a05b-c7a0de8e2d7d",
+  "files": [
+    ".png",
+    ".json"
+  ],
+  "subMetas": {
+    "specular_1_4.hdr": {
+      "ver": "1.0.19",
+      "importer": "texture",
+      "uuid": "e8ef5ac0-8b5b-4c6b-a05b-c7a0de8e2d7d@specular_1_4.hdr",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {},
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "premultiplyAlpha": false,
+        "anisotropy": 1,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "e8ef5ac0-8b5b-4c6b-a05b-c7a0de8e2d7d"
+      }
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "redirect": "e8ef5ac0-8b5b-4c6b-a05b-c7a0de8e2d7d@specular_1_4.hdr"
+  },
+  "imported": true
+}
